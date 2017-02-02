@@ -2,12 +2,25 @@
 
 ## zu Besuch bei 
 
-[Hostname](http://www.webdevstammtisch.de/)
+[IMA](https://www.internet-marketing-agentur.com/)
 
 ## namen
 
+- Achim
+- Niklas
+- Andi
+- Kevin
+- Ralf
+- Tobias
+- Rolf
+- Theo
+- Waseem
+
 
 ## themen
+
+### Rolf - CSS Grids
+
 
 ### WebDev Stammtisch bekannter machen
 
