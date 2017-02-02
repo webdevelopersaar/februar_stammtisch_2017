@@ -1,13 +1,13 @@
-# januar_stammtisch_2017
+# februar_stammtisch_2017
 
 ## zu Besuch bei 
 
-[IMA](https://www.internet-marketing-agentur.com/)
+[Internet Marketing Agentur](https://www.internet-marketing-agentur.com/)
 
 ## namen
 
 - Achim
-- Niklas
+- Nicklas
 - Andi
 - Kevin
 - Ralf
@@ -15,7 +15,8 @@
 - Rolf
 - Theo
 - Waseem
-
+- Christoph
+- Boris
 
 ## themen
 
@@ -77,8 +78,11 @@
 
 **Weblinks**
 
+* [Magento Stammtisch Saar](https://www.meetup.com/de-DE/Magento-Stammtisch-Saar/)
 * [TYPO3 User Group](https://www.meetup.com/TYPO3-Usergroup-Saar/)
+* [Onlinemarkting Stammtisch](http://onlinemarketing.saarland/) 
 * [OMSsaar No. 1](https://www.facebook.com/events/600831456773780/)
+* [WebDevStammtisch auf Meetup](https://www.meetup.com/de-DE/Webdeveloper-Stammtisch-Saar/)
 * [Bulma](http://bulma.io/)
 * [Concise CSS](http://concisecss.com/)
 * [Browsersync](https://www.browsersync.io/)
