@@ -1,4 +1,4 @@
-# januar_stammtisch_2017
+# februar_stammtisch_2017
 
 ## zu Besuch bei 
 
